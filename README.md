@@ -1,16 +1,49 @@
-# first_app
+# Expense Tracker App 💸
 
-A new Flutter project.
+A feature-rich Flutter application designed to help users efficiently track, manage, and visualize their daily expenses with a clean and intuitive interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add, update, and delete expenses across **5+ categories**
+- Track and manage **50+ expense entries** seamlessly
+- Real-time expense updates with smooth UI refresh
+- Category-wise expense grouping for better insights
+- Interactive **chart visualizations** for expense analysis
+- Clean and responsive UI for enhanced user experience
+- Reusable components for scalable design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Provider (State Management)**
+- Charts (for data visualization)
+- Theming & UI/UX Optimization
+
+---
+
+## 🧠 Description
+
+Developed a full-fledged expense management application enabling users to efficiently manage their finances through structured expense tracking and visualization.
+
+Implemented **Provider-based state management across 10+ widgets**, ensuring modular architecture and seamless UI updates during frequent state changes.
+
+Designed reusable UI components with integrated **chart visualizations**, category-based organization, and real-time budget updates to enhance usability, navigation, and overall user experience.
+
+---
+
+## 📸 Screenshots
+
+(Add your screenshots here)
+
+---
+
+## ▶️ Run Locally
+
+```bash
+flutter pub get
+flutter run
